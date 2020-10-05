@@ -4,8 +4,7 @@
 
 Ensure Jupyter Lab is installed (`conda install jupyterlab` or `pip install jupyterlab`)
 
-- Install [Julia LTS](https://julialang.org/downloads/#long_term_support_release)
-- Add Julia to path: `sudo ln -s /Applications/Julia-1.0.app/Contents/Resources/julia/bin/julia /usr/local/bin/julia`
+- Install Julia: `brew cask install Julia`
 - Enter Julia REPL: `julia`
 - Install IJulia: `] add IJulia`
 - Build IJulia: `build IJulia`
@@ -16,4 +15,4 @@ Ensure Jupyter Lab is installed (`conda install jupyterlab` or `pip install jupy
 - run `jupyter lab` in terminal (*Not in Julia REPL*)
 - Jupyter Lab will open in browser
 - click a notebook on the sidebar
-- to create a new notebook, click `+` and create new `Julia 1.0.5` notebook
+- to create a new notebook, click `+` and create new `Julia 1.5.2` notebook
