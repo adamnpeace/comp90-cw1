@@ -1,3 +1,3 @@
-# COMP0090 Group Assignment 1
+# C90 Deep Learning Coursework 1
 
-Make your own notebook in the relevant folder yay bye
+Submitted as part of the UCL c90 Deep Learning coursework.
